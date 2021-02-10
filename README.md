@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter application.
+A Basic Model of Xylophone Made Using FLUTTER
 
 ## Getting Started
 
